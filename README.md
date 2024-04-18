@@ -6,7 +6,7 @@ Fullstack Software Engineer
 
 A Fullstack engineer with over 11 years of experience in technology, specializing in Java Backend development for the past 7 years. I love creating tech solutions that truly impact people's lives.
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [https://dev.to/nichetti](http://dev.to/nichetti)
 * ✉️  You can contact me at [guilherme.nichetti91@gmail.com](mailto:guilherme.nichetti91@gmail.com)
 * 🧠  I'm learning Golang
