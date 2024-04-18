@@ -10,7 +10,7 @@ A Fullstack engineer with over 11 years of experience in technology, specializin
 * 🖥️  See my portfolio at [https://dev.to/nichetti](http://dev.to/nichetti)
 * ✉️  You can contact me at [guilherme.nichetti91@gmail.com](mailto:guilherme.nichetti91@gmail.com)
 * 🧠  I'm learning Golang
-* 🤝  I'm open to collaborating on Interesing Projects
+* 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
 
